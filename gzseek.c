@@ -1,5 +1,7 @@
 #include <glib.h>
+
 #include <stdio.h>
+#include <stdlib.h>
 
 #define MIN_GZIP_SIZE 18
 
